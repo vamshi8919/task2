@@ -1,5 +1,8 @@
 # task2
 
+note:- it does not open in normal browser.The browser should disable its securities due to cross orgin issue.
+we should ues the commend called "chrome.exe --user-data-dir="C://chrome-dev-disabled-security" --disable-web-security --disable-site-isolation-trials"
+
 # Updating Data from Google Sheets
 
 This repository demonstrates how to pull data from a Google Sheets spreadsheet and update the repository with the latest information. Follow the steps below to understand and implement this process.
